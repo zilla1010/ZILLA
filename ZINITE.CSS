@@ -1,0 +1,46 @@
+.red{
+    color: aqua;
+    font-weight: 200;
+    font-style: oblique;
+}
+.blue{
+    color: red;
+    font-weight: 300;
+    font-style: unset;
+}
+.rengo{
+    color: aqua;
+    font-weight: 400;
+     font-style: oblique;
+}
+.retero{
+    color: red;
+    font-weight: 500;
+    font-style: oblique;
+}
+.mits{
+    color: aqua;
+    font-weight: 600;
+    font-style: oblique
+}
+.form{
+    height: 300pt;
+    font-weight: 700;
+    font-size: larger;
+    color: chartreuse;
+}
+#man{
+    height: 200px;
+}
+.er{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    forced-color-adjust: red;
+    color:greenyellow;
+    size: 300pt;
+}
+.ded{
+    color: rgb(0, 255, 208);
+    size: 30pt;
+}
+
+
