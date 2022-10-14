@@ -1,0 +1,35 @@
+.container{
+    background-color:aqua;
+    width: 400px;
+    color: chartreuse;
+    font-size: 20px;
+    /*adding padding*/
+    padding-top: 12px;
+    padding-right: 10px;
+    padding-bottom: 8px;
+    padding-left: 13px;
+    /*border*/
+    border-top-width:10px ;
+    border-top-style:groove ;
+
+    border-bottom-width:10px ;
+    border-bottom-style:dotted ;
+    border-radius: 9px;
+
+}
+.wrapper{
+
+}
+/*margin*/
+.the{
+    border-radius: 200px;
+    margin: 20px;
+}
+.thes{
+    background-color: antiquewhite;
+}
+.container:hover{
+    background-color: darkcyan;
+    color: brown;
+
+}
